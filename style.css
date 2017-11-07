@@ -1,0 +1,67 @@
+#cssnote
+{
+    border: 1px solid blue;
+    background: #ddf;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+body
+{
+    background: #444;
+}
+
+#main
+{
+    background: #eee;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    font-size: 1.2em;
+}
+
+#question
+{
+    font-family: monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#studentanswer
+{
+    font-family: monospace;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.correct
+{
+   background: #beb;
+   border: 2px solid #050;
+   color: #050;
+}
+
+.wrong
+{
+   background: #ebb;
+   border: 2px solid #500;
+   color: #500;
+}
+
+h1
+{
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+}
+
+#feedback
+{
+    text-align: center;
+}
+
+#scoreinfo
+{
+    margin: 5px;
+}

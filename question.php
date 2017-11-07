@@ -1,0 +1,3 @@
+<?php 
+passthru("./question.py"); 
+?>
